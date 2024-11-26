@@ -1,0 +1,18 @@
+Added Component: Designator=J6(JUMPER)
+Add component (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SupplierPartNumber"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J7(JUMPER)
+Add component (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SupplierPartNumber"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=Vin_P Pin=J6-1
+Added Pin To Net: NetName=Vin-coupled_P Pin=J6-2
+Added Pin To Net: NetName=Vin_N Pin=J7-1
+Added Pin To Net: NetName=Vin-coupled_N Pin=J7-2
+Added Member To Class: ClassName=conditioning_circuit Member=Component J6 *
+Added Member To Class: ClassName=conditioning_circuit Member=Component J7 *

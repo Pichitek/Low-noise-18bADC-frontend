@@ -1,0 +1,6 @@
+Change Component Comment : Designator=C11 Old Comment=* New Comment=100n
+Change Component Comment : Designator=C12 Old Comment=* New Comment=100n
+Added Member To Class: ClassName=conditioning_circuit Member=Component C9 100n
+Added Member To Class: ClassName=conditioning_circuit Member=Component C10 100n
+Added Member To Class: ClassName=conditioning_circuit Member=Component C12 100n
+Added Member To Class: ClassName=conditioning_circuit Member=Component C13 *

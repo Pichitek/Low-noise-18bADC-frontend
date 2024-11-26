@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ConstraintsData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <FlattenedNetName2ConstraintNetId>
+    <FlattenedNetName2ConstraintNetIdEntry FlattenedNetName="V-1st_N" ConstraintNetId="a961ed46-c6a7-471f-a225-9a6643859e52" />
+    <FlattenedNetName2ConstraintNetIdEntry FlattenedNetName="V-1st_P" ConstraintNetId="7387e527-fe85-4232-86a4-5219cce821bc" />
+    <FlattenedNetName2ConstraintNetIdEntry FlattenedNetName="V-2nd-in_N" ConstraintNetId="e5da26b0-4745-4293-89a8-d53a23a395e9" />
+    <FlattenedNetName2ConstraintNetIdEntry FlattenedNetName="V-2nd-in_P" ConstraintNetId="5aba8023-6c13-4659-b046-2dc5f694763d" />
+    <FlattenedNetName2ConstraintNetIdEntry FlattenedNetName="V-2nd-out_P" ConstraintNetId="d455fdd5-986f-4297-ab15-e925198ed20d" />
+    <FlattenedNetName2ConstraintNetIdEntry FlattenedNetName="V-2nd-out_N" ConstraintNetId="b0b52e21-9203-431e-840d-113a8d93f0df" />
+    <FlattenedNetName2ConstraintNetIdEntry FlattenedNetName="V-fltr1_P" ConstraintNetId="fd8b20b1-285a-497d-9ef3-8da6de808ec8" />
+    <FlattenedNetName2ConstraintNetIdEntry FlattenedNetName="V-fltr1_N" ConstraintNetId="f49e7d80-9b9b-4097-9dc8-c3612c50201d" />
+    <FlattenedNetName2ConstraintNetIdEntry FlattenedNetName="Vin-coupled_P" ConstraintNetId="f11074df-ea3d-4e2e-afb0-6f8775873ee4" />
+    <FlattenedNetName2ConstraintNetIdEntry FlattenedNetName="Vin-coupled_N" ConstraintNetId="ca9fcc02-d7fd-4a41-8a9c-0677c3342208" />
+    <FlattenedNetName2ConstraintNetIdEntry FlattenedNetName="Vin_P" ConstraintNetId="7451841d-4888-4cd3-9ccc-54f968d443bc" />
+    <FlattenedNetName2ConstraintNetIdEntry FlattenedNetName="Vin_N" ConstraintNetId="ad4238c3-f401-4d6e-89db-cad110f1aa1b" />
+    <FlattenedNetName2ConstraintNetIdEntry FlattenedNetName="Vout_P" ConstraintNetId="0aa255cd-d606-4fa7-9117-71926a43408f" />
+    <FlattenedNetName2ConstraintNetIdEntry FlattenedNetName="Vout_N" ConstraintNetId="fa74ec8a-18d6-49e4-a779-fb80bbdda5e4" />
+    <FlattenedNetName2ConstraintNetIdEntry FlattenedNetName="fb-pos" ConstraintNetId="b40e5a32-6d1f-49e3-8c49-0db512524e02" />
+    <FlattenedNetName2ConstraintNetIdEntry FlattenedNetName="fb-neg" ConstraintNetId="6798921d-2d1b-41f6-89c1-f9274641b3f4" />
+  </FlattenedNetName2ConstraintNetId>
+  <CNets>
+    <CNet Id="a961ed46-c6a7-471f-a225-9a6643859e52">
+      <Constraints />
+      <ConstraintSets />
+      <ConstraintNodes />
+    </CNet>
+    <CNet Id="7387e527-fe85-4232-86a4-5219cce821bc">
+      <Constraints />
+      <ConstraintSets />
+      <ConstraintNodes />
+    </CNet>
+    <CNet Id="e5da26b0-4745-4293-89a8-d53a23a395e9">
+      <Constraints />
+      <ConstraintSets />
+      <ConstraintNodes />
+    </CNet>
+    <CNet Id="5aba8023-6c13-4659-b046-2dc5f694763d">
+      <Constraints />
+      <ConstraintSets />
+      <ConstraintNodes />
+    </CNet>
+    <CNet Id="d455fdd5-986f-4297-ab15-e925198ed20d">
+      <Constraints />
+      <ConstraintSets />
+      <ConstraintNodes />
+    </CNet>
+    <CNet Id="b0b52e21-9203-431e-840d-113a8d93f0df">
+      <Constraints />
+      <ConstraintSets />
+      <ConstraintNodes />
+    </CNet>
+    <CNet Id="fd8b20b1-285a-497d-9ef3-8da6de808ec8">
+      <Constraints />
+      <ConstraintSets />
+      <ConstraintNodes />
+    </CNet>
+    <CNet Id="f49e7d80-9b9b-4097-9dc8-c3612c50201d">
+      <Constraints />
+      <ConstraintSets />
+      <ConstraintNodes />
+    </CNet>
+    <CNet Id="f11074df-ea3d-4e2e-afb0-6f8775873ee4">
+      <Constraints />
+      <ConstraintSets />
+      <ConstraintNodes />
+    </CNet>
+    <CNet Id="ca9fcc02-d7fd-4a41-8a9c-0677c3342208">
+      <Constraints />
+      <ConstraintSets />
+      <ConstraintNodes />
+    </CNet>
+    <CNet Id="7451841d-4888-4cd3-9ccc-54f968d443bc">
+      <Constraints />
+      <ConstraintSets />
+      <ConstraintNodes />
+    </CNet>
+    <CNet Id="ad4238c3-f401-4d6e-89db-cad110f1aa1b">
+      <Constraints />
+      <ConstraintSets />
+      <ConstraintNodes />
+    </CNet>
+    <CNet Id="0aa255cd-d606-4fa7-9117-71926a43408f">
+      <Constraints />
+      <ConstraintSets />
+      <ConstraintNodes />
+    </CNet>
+    <CNet Id="fa74ec8a-18d6-49e4-a779-fb80bbdda5e4">
+      <Constraints />
+      <ConstraintSets />
+      <ConstraintNodes />
+    </CNet>
+    <CNet Id="b40e5a32-6d1f-49e3-8c49-0db512524e02">
+      <Constraints />
+      <ConstraintSets />
+      <ConstraintNodes />
+    </CNet>
+    <CNet Id="6798921d-2d1b-41f6-89c1-f9274641b3f4">
+      <Constraints />
+      <ConstraintSets />
+      <ConstraintNodes />
+    </CNet>
+  </CNets>
+  <CNetClasses>
+    <CNetClass Id="fd4cb534-e4d1-4f08-942b-b22ddf968bd0" Name="All Nets" IsPredefined="true" Domain="2">
+      <Constraints>
+        <Constraint Id="a94d69ed-344f-4b15-826b-c676823f1b65" Kind="2" Name="Schematic Width Constraint" Description="Width Constraint [Pref Width = 10mil    Min Width = 10mil    Max Width = 10mil]" Scope1="All" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|MAXLIMIT=10mil|MINLIMIT=10mil|PREFEREDWIDTH=10mil" />
+        <Constraint Id="5e6738bf-add0-491f-a616-43202137b187" Kind="7" Name="Schematic Routing Topology" Description="Routing Topology [Topology - Shortest]" Scope1="All" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|TOPOLOGY=Shortest" />
+        <Constraint Id="63f9f116-51d7-43a1-9b6d-4e45128fa632" Kind="9" Name="Schematic Routing Layers" Description="Routing Layers [TopLayer - Enabled BottomLayer - Enabled ]" Scope1="All" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|TOP LAYER_V5=TRUE|MID LAYER 1_V5=TRUE|MID LAYER 2_V5=TRUE|MID LAYER 3_V5=TRUE|MID LAYER 4_V5=TRUE|MID LAYER 5_V5=TRUE|MID LAYER 6_V5=TRUE|MID LAYER 7_V5=TRUE|MID LAYER 8_V5=TRUE|MID LAYER 9_V5=TRUE|MID LAYER 10_V5=TRUE|MID LAYER 11_V5=TRUE|MID LAYER 12_V5=TRUE|MID LAYER 13_V5=TRUE|MID LAYER 14_V5=TRUE|MID LAYER 15_V5=TRUE|MID LAYER 16_V5=TRUE|MID LAYER 17_V5=TRUE|MID LAYER 18_V5=TRUE|MID LAYER 19_V5=TRUE|MID LAYER 20_V5=TRUE|MID LAYER 21_V5=TRUE|MID LAYER 22_V5=TRUE|MID LAYER 23_V5=TRUE|MID LAYER 24_V5=TRUE|MID LAYER 25_V5=TRUE|MID LAYER 26_V5=TRUE|MID LAYER 27_V5=TRUE|MID LAYER 28_V5=TRUE|MID LAYER 29_V5=TRUE|MID LAYER 30_V5=TRUE|BOTTOM LAYER_V5=TRUE" />
+        <Constraint Id="6f950df4-4793-440b-9eec-5f3808ac0d9e" Kind="11" Name="Schematic Routing Via Style" Description="Routing Via Style [Pref Size = 50mil    Pref Hole Size = 28mil]" Scope1="All" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|HOLEWIDTH=28mil|WIDTH=50mil|VIASTYLE=Through Hole|MINHOLEWIDTH=28mil|MINWIDTH=50mil|MAXHOLEWIDTH=28mil|MAXWIDTH=50mil" />
+        <Constraint Id="0c82e486-7ff0-4db9-a66d-3e019c957312" Kind="20" Name="Schematic Polygon Connect Style" Description="Polygon Connect Style [Style - Relief Connect    Width = 10mil    Angle = 90    # Entries = 4    Air Gap = 10mil    ]" Scope1="All" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|CONNECTSTYLE=Relief|RELIEFCONDUCTORWIDTH=10mil|RELIEFENTRIES=4|POLYGONRELIEFANGLE=90 Angle|AIRGAPWIDTH=10mil" />
+        <Constraint Id="bcbdfa27-9484-4194-a6e6-ffe613ae95a3" Kind="51" Name="DifferentialPairsRouting_1" Description="Differential Pairs Routing [Pref Gap = 0.254mm    Min Gap  = 0.254mm    Max Gap  = 15mmPref Width = 0.381mm    Min Width  = 0.254mm    Max Width  = 0.381mm]" Scope1="All" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|MAXLIMIT=590.5512mil|MINLIMIT=10mil|MOSTFREQGAP=10mil|TOPLAYER_MINWIDTH=10mil|TOPLAYER_MAXWIDTH=10mil|TOPLAYER_PREFWIDTH=10mil|MIDLAYER1_MAXGAP=10mil|MIDLAYER1_MINWIDTH=15mil|MIDLAYER1_MAXWIDTH=15mil|MIDLAYER1_PREFWIDTH=15mil|MIDLAYER2_MAXGAP=10mil|MIDLAYER2_MINWIDTH=15mil|MIDLAYER2_MAXWIDTH=15mil|MIDLAYER2_PREFWIDTH=15mil|MIDLAYER3_MAXGAP=10mil|MIDLAYER3_MINWIDTH=15mil|MIDLAYER3_MAXWIDTH=15mil|MIDLAYER3_PREFWIDTH=15mil|MIDLAYER4_MAXGAP=10mil|MIDLAYER4_MINWIDTH=15mil|MIDLAYER4_MAXWIDTH=15mil|MIDLAYER4_PREFWIDTH=15mil|MIDLAYER5_MAXGAP=10mil|MIDLAYER5_MINWIDTH=15mil|MIDLAYER5_MAXWIDTH=15mil|MIDLAYER5_PREFWIDTH=15mil|MIDLAYER6_MAXGAP=10mil|MIDLAYER6_MINWIDTH=15mil|MIDLAYER6_MAXWIDTH=15mil|MIDLAYER6_PREFWIDTH=15mil|MIDLAYER7_MAXGAP=10mil|MIDLAYER7_MINWIDTH=15mil|MIDLAYER7_MAXWIDTH=15mil|MIDLAYER7_PREFWIDTH=15mil|MIDLAYER8_MAXGAP=10mil|MIDLAYER8_MINWIDTH=15mil|MIDLAYER8_MAXWIDTH=15mil|MIDLAYER8_PREFWIDTH=15mil|MIDLAYER9_MAXGAP=10mil|MIDLAYER9_MINWIDTH=15mil|MIDLAYER9_MAXWIDTH=15mil|MIDLAYER9_PREFWIDTH=15mil|MIDLAYER10_MAXGAP=10mil|MIDLAYER10_MINWIDTH=15mil|MIDLAYER10_MAXWIDTH=15mil|MIDLAYER10_PREFWIDTH=15mil|MIDLAYER11_MAXGAP=10mil|MIDLAYER11_MINWIDTH=15mil|MIDLAYER11_MAXWIDTH=15mil|MIDLAYER11_PREFWIDTH=15mil|MIDLAYER12_MAXGAP=10mil|MIDLAYER12_MINWIDTH=15mil|MIDLAYER12_MAXWIDTH=15mil|MIDLAYER12_PREFWIDTH=15mil|MIDLAYER13_MAXGAP=10mil|MIDLAYER13_MINWIDTH=15mil|MIDLAYER13_MAXWIDTH=15mil|MIDLAYER13_PREFWIDTH=15mil|MIDLAYER14_MAXGAP=10mil|MIDLAYER14_MINWIDTH=15mil|MIDLAYER14_MAXWIDTH=15mil|MIDLAYER14_PREFWIDTH=15mil|MIDLAYER15_MAXGAP=10mil|MIDLAYER15_MINWIDTH=15mil|MIDLAYER15_MAXWIDTH=15mil|MIDLAYER15_PREFWIDTH=15mil|MIDLAYER16_MAXGAP=10mil|MIDLAYER16_MINWIDTH=15mil|MIDLAYER16_MAXWIDTH=15mil|MIDLAYER16_PREFWIDTH=15mil|MIDLAYER17_MAXGAP=10mil|MIDLAYER17_MINWIDTH=15mil|MIDLAYER17_MAXWIDTH=15mil|MIDLAYER17_PREFWIDTH=15mil|MIDLAYER18_MAXGAP=10mil|MIDLAYER18_MINWIDTH=15mil|MIDLAYER18_MAXWIDTH=15mil|MIDLAYER18_PREFWIDTH=15mil|MIDLAYER19_MAXGAP=10mil|MIDLAYER19_MINWIDTH=15mil|MIDLAYER19_MAXWIDTH=15mil|MIDLAYER19_PREFWIDTH=15mil|MIDLAYER20_MAXGAP=10mil|MIDLAYER20_MINWIDTH=15mil|MIDLAYER20_MAXWIDTH=15mil|MIDLAYER20_PREFWIDTH=15mil|MIDLAYER21_MAXGAP=10mil|MIDLAYER21_MINWIDTH=15mil|MIDLAYER21_MAXWIDTH=15mil|MIDLAYER21_PREFWIDTH=15mil|MIDLAYER22_MAXGAP=10mil|MIDLAYER22_MINWIDTH=15mil|MIDLAYER22_MAXWIDTH=15mil|MIDLAYER22_PREFWIDTH=15mil|MIDLAYER23_MAXGAP=10mil|MIDLAYER23_MINWIDTH=15mil|MIDLAYER23_MAXWIDTH=15mil|MIDLAYER23_PREFWIDTH=15mil|MIDLAYER24_MAXGAP=10mil|MIDLAYER24_MINWIDTH=15mil|MIDLAYER24_MAXWIDTH=15mil|MIDLAYER24_PREFWIDTH=15mil|MIDLAYER25_MAXGAP=10mil|MIDLAYER25_MINWIDTH=15mil|MIDLAYER25_MAXWIDTH=15mil|MIDLAYER25_PREFWIDTH=15mil|MIDLAYER26_MAXGAP=10mil|MIDLAYER26_MINWIDTH=15mil|MIDLAYER26_MAXWIDTH=15mil|MIDLAYER26_PREFWIDTH=15mil|MIDLAYER27_MAXGAP=10mil|MIDLAYER27_MINWIDTH=15mil|MIDLAYER27_MAXWIDTH=15mil|MIDLAYER27_PREFWIDTH=15mil|MIDLAYER28_MAXGAP=10mil|MIDLAYER28_MINWIDTH=15mil|MIDLAYER28_MAXWIDTH=15mil|MIDLAYER28_PREFWIDTH=15mil|MIDLAYER29_MAXGAP=10mil|MIDLAYER29_MINWIDTH=15mil|MIDLAYER29_MAXWIDTH=15mil|MIDLAYER29_PREFWIDTH=15mil|MIDLAYER30_MAXGAP=10mil|MIDLAYER30_MINWIDTH=15mil|MIDLAYER30_MAXWIDTH=15mil|MIDLAYER30_PREFWIDTH=15mil|BOTTOMLAYER_MINWIDTH=10mil|BOTTOMLAYER_MAXWIDTH=10mil|BOTTOMLAYER_PREFWIDTH=10mil|MAXUNCOUPLEDLENGTH=590.5512mil" />
+        <Constraint Id="0f3830fd-eeae-496b-8331-ab1dd22a2853" Kind="51" Name="DiffPairsRouting" Description="Differential Pairs Routing [Pref Gap = 0.254mm    Min Gap  = 0.254mm    Max Gap  = 0.254mmPref Width = 0.381mm    Min Width  = 0.381mm    Max Width  = 0.381mm]" Scope1="All" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|MAXLIMIT=10mil|MINLIMIT=10mil|MOSTFREQGAP=10mil|TOPLAYER_MINWIDTH=15mil|TOPLAYER_MAXWIDTH=15mil|TOPLAYER_PREFWIDTH=15mil|MIDLAYER1_MINWIDTH=15mil|MIDLAYER1_MAXWIDTH=15mil|MIDLAYER1_PREFWIDTH=15mil|MIDLAYER2_MINWIDTH=15mil|MIDLAYER2_MAXWIDTH=15mil|MIDLAYER2_PREFWIDTH=15mil|MIDLAYER3_MINWIDTH=15mil|MIDLAYER3_MAXWIDTH=15mil|MIDLAYER3_PREFWIDTH=15mil|MIDLAYER4_MINWIDTH=15mil|MIDLAYER4_MAXWIDTH=15mil|MIDLAYER4_PREFWIDTH=15mil|MIDLAYER5_MINWIDTH=15mil|MIDLAYER5_MAXWIDTH=15mil|MIDLAYER5_PREFWIDTH=15mil|MIDLAYER6_MINWIDTH=15mil|MIDLAYER6_MAXWIDTH=15mil|MIDLAYER6_PREFWIDTH=15mil|MIDLAYER7_MINWIDTH=15mil|MIDLAYER7_MAXWIDTH=15mil|MIDLAYER7_PREFWIDTH=15mil|MIDLAYER8_MINWIDTH=15mil|MIDLAYER8_MAXWIDTH=15mil|MIDLAYER8_PREFWIDTH=15mil|MIDLAYER9_MINWIDTH=15mil|MIDLAYER9_MAXWIDTH=15mil|MIDLAYER9_PREFWIDTH=15mil|MIDLAYER10_MINWIDTH=15mil|MIDLAYER10_MAXWIDTH=15mil|MIDLAYER10_PREFWIDTH=15mil|MIDLAYER11_MINWIDTH=15mil|MIDLAYER11_MAXWIDTH=15mil|MIDLAYER11_PREFWIDTH=15mil|MIDLAYER12_MINWIDTH=15mil|MIDLAYER12_MAXWIDTH=15mil|MIDLAYER12_PREFWIDTH=15mil|MIDLAYER13_MINWIDTH=15mil|MIDLAYER13_MAXWIDTH=15mil|MIDLAYER13_PREFWIDTH=15mil|MIDLAYER14_MINWIDTH=15mil|MIDLAYER14_MAXWIDTH=15mil|MIDLAYER14_PREFWIDTH=15mil|MIDLAYER15_MINWIDTH=15mil|MIDLAYER15_MAXWIDTH=15mil|MIDLAYER15_PREFWIDTH=15mil|MIDLAYER16_MINWIDTH=15mil|MIDLAYER16_MAXWIDTH=15mil|MIDLAYER16_PREFWIDTH=15mil|MIDLAYER17_MINWIDTH=15mil|MIDLAYER17_MAXWIDTH=15mil|MIDLAYER17_PREFWIDTH=15mil|MIDLAYER18_MINWIDTH=15mil|MIDLAYER18_MAXWIDTH=15mil|MIDLAYER18_PREFWIDTH=15mil|MIDLAYER19_MINWIDTH=15mil|MIDLAYER19_MAXWIDTH=15mil|MIDLAYER19_PREFWIDTH=15mil|MIDLAYER20_MINWIDTH=15mil|MIDLAYER20_MAXWIDTH=15mil|MIDLAYER20_PREFWIDTH=15mil|MIDLAYER21_MINWIDTH=15mil|MIDLAYER21_MAXWIDTH=15mil|MIDLAYER21_PREFWIDTH=15mil|MIDLAYER22_MINWIDTH=15mil|MIDLAYER22_MAXWIDTH=15mil|MIDLAYER22_PREFWIDTH=15mil|MIDLAYER23_MINWIDTH=15mil|MIDLAYER23_MAXWIDTH=15mil|MIDLAYER23_PREFWIDTH=15mil|MIDLAYER24_MINWIDTH=15mil|MIDLAYER24_MAXWIDTH=15mil|MIDLAYER24_PREFWIDTH=15mil|MIDLAYER25_MINWIDTH=15mil|MIDLAYER25_MAXWIDTH=15mil|MIDLAYER25_PREFWIDTH=15mil|MIDLAYER26_MINWIDTH=15mil|MIDLAYER26_MAXWIDTH=15mil|MIDLAYER26_PREFWIDTH=15mil|MIDLAYER27_MINWIDTH=15mil|MIDLAYER27_MAXWIDTH=15mil|MIDLAYER27_PREFWIDTH=15mil|MIDLAYER28_MINWIDTH=15mil|MIDLAYER28_MAXWIDTH=15mil|MIDLAYER28_PREFWIDTH=15mil|MIDLAYER29_MINWIDTH=15mil|MIDLAYER29_MAXWIDTH=15mil|MIDLAYER29_PREFWIDTH=15mil|MIDLAYER30_MINWIDTH=15mil|MIDLAYER30_MAXWIDTH=15mil|MIDLAYER30_PREFWIDTH=15mil|BOTTOMLAYER_MINWIDTH=15mil|BOTTOMLAYER_MAXWIDTH=15mil|BOTTOMLAYER_PREFWIDTH=15mil|MAXUNCOUPLEDLENGTH=500mil" />
+        <Constraint Id="89fa1958-7f75-4b42-acda-2cebeaedfe52" Kind="11" Name="RoutingViaStyle_1" Description="Routing Via Style [Pref Size = 0.6mm    Pref Hole Size = 0.25mm]" Scope1="All" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|HOLEWIDTH=9.8425mil|WIDTH=23.622mil|VIASTYLE=Through Hole|MINHOLEWIDTH=7.874mil|MINWIDTH=19.685mil|MAXHOLEWIDTH=11.811mil|MAXWIDTH=27.5591mil" />
+        <Constraint Id="4074cf6c-c869-43f2-af75-60c2ffc13c0e" Kind="2" Name="MaxMinWidth_1" Description="Width Constraint [Pref Width = 0.254mm    Min Width = 0.15mm    Max Width = 0.7mm]" Scope1="All" Scope2="All" Attributes="NETSCOPE=AnyNet|LAYERKIND=SameLayer|MAXLIMIT=27.5591mil|MINLIMIT=5.9055mil|PREFEREDWIDTH=10mil|MIDLAYER1_MINWIDTH=10mil|MIDLAYER1_MAXWIDTH=10mil|MIDLAYER2_MINWIDTH=10mil|MIDLAYER2_MAXWIDTH=10mil|MIDLAYER3_MINWIDTH=10mil|MIDLAYER3_MAXWIDTH=10mil|MIDLAYER4_MINWIDTH=10mil|MIDLAYER4_MAXWIDTH=10mil|MIDLAYER5_MINWIDTH=10mil|MIDLAYER5_MAXWIDTH=10mil|MIDLAYER6_MINWIDTH=10mil|MIDLAYER6_MAXWIDTH=10mil|MIDLAYER7_MINWIDTH=10mil|MIDLAYER7_MAXWIDTH=10mil|MIDLAYER8_MINWIDTH=10mil|MIDLAYER8_MAXWIDTH=10mil|MIDLAYER9_MINWIDTH=10mil|MIDLAYER9_MAXWIDTH=10mil|MIDLAYER10_MINWIDTH=10mil|MIDLAYER10_MAXWIDTH=10mil|MIDLAYER11_MINWIDTH=10mil|MIDLAYER11_MAXWIDTH=10mil|MIDLAYER12_MINWIDTH=10mil|MIDLAYER12_MAXWIDTH=10mil|MIDLAYER13_MINWIDTH=10mil|MIDLAYER13_MAXWIDTH=10mil|MIDLAYER14_MINWIDTH=10mil|MIDLAYER14_MAXWIDTH=10mil|MIDLAYER15_MINWIDTH=10mil|MIDLAYER15_MAXWIDTH=10mil|MIDLAYER16_MINWIDTH=10mil|MIDLAYER16_MAXWIDTH=10mil|MIDLAYER17_MINWIDTH=10mil|MIDLAYER17_MAXWIDTH=10mil|MIDLAYER18_MINWIDTH=10mil|MIDLAYER18_MAXWIDTH=10mil|MIDLAYER19_MINWIDTH=10mil|MIDLAYER19_MAXWIDTH=10mil|MIDLAYER20_MINWIDTH=10mil|MIDLAYER20_MAXWIDTH=10mil|MIDLAYER21_MINWIDTH=10mil|MIDLAYER21_MAXWIDTH=10mil|MIDLAYER22_MINWIDTH=10mil|MIDLAYER22_MAXWIDTH=10mil|MIDLAYER23_MINWIDTH=10mil|MIDLAYER23_MAXWIDTH=10mil|MIDLAYER24_MINWIDTH=10mil|MIDLAYER24_MAXWIDTH=10mil|MIDLAYER25_MINWIDTH=10mil|MIDLAYER25_MAXWIDTH=10mil|MIDLAYER26_MINWIDTH=10mil|MIDLAYER26_MAXWIDTH=10mil|MIDLAYER27_MINWIDTH=10mil|MIDLAYER27_MAXWIDTH=10mil|MIDLAYER28_MINWIDTH=10mil|MIDLAYER28_MAXWIDTH=10mil|MIDLAYER29_MINWIDTH=10mil|MIDLAYER29_MAXWIDTH=10mil|MIDLAYER30_MINWIDTH=10mil|MIDLAYER30_MAXWIDTH=10mil|MINIMP=50.000000|MAXIMP=50.000000|FAVIMP=50.000000" />
+      </Constraints>
+      <ConstraintSets />
+      <CNets />
+    </CNetClass>
+  </CNetClasses>
+  <CDifferentialPairs>
+    <CDifferentialPair Id="060bf660-1f39-4517-aacf-1de135c96f42" Name="V-1st">
+      <Constraints />
+      <ConstraintSets />
+      <PositiveConstraintNet Id="a961ed46-c6a7-471f-a225-9a6643859e52" />
+      <NegativeConstraintNet Id="7387e527-fe85-4232-86a4-5219cce821bc" />
+    </CDifferentialPair>
+    <CDifferentialPair Id="9a8a5e7a-f0f1-4885-8126-5e44249f3950" Name="V-2nd-in">
+      <Constraints />
+      <ConstraintSets />
+      <PositiveConstraintNet Id="e5da26b0-4745-4293-89a8-d53a23a395e9" />
+      <NegativeConstraintNet Id="5aba8023-6c13-4659-b046-2dc5f694763d" />
+    </CDifferentialPair>
+    <CDifferentialPair Id="0723ffd1-9a9f-4aa9-b7b9-1abe05b2c63b" Name="V-2nd-out">
+      <Constraints />
+      <ConstraintSets />
+      <PositiveConstraintNet Id="d455fdd5-986f-4297-ab15-e925198ed20d" />
+      <NegativeConstraintNet Id="b0b52e21-9203-431e-840d-113a8d93f0df" />
+    </CDifferentialPair>
+    <CDifferentialPair Id="5c52c95e-e358-4099-a4a2-350c2cbbfdf8" Name="V-fltr1">
+      <Constraints />
+      <ConstraintSets />
+      <PositiveConstraintNet Id="fd8b20b1-285a-497d-9ef3-8da6de808ec8" />
+      <NegativeConstraintNet Id="f49e7d80-9b9b-4097-9dc8-c3612c50201d" />
+    </CDifferentialPair>
+    <CDifferentialPair Id="5eefc9d2-5a4b-4ca2-99e1-4bfb53ff272e" Name="Vin-coupled">
+      <Constraints />
+      <ConstraintSets />
+      <PositiveConstraintNet Id="f11074df-ea3d-4e2e-afb0-6f8775873ee4" />
+      <NegativeConstraintNet Id="ca9fcc02-d7fd-4a41-8a9c-0677c3342208" />
+    </CDifferentialPair>
+    <CDifferentialPair Id="48e53145-afca-4235-aa04-e0a14800db77" Name="Vin">
+      <Constraints />
+      <ConstraintSets />
+      <PositiveConstraintNet Id="7451841d-4888-4cd3-9ccc-54f968d443bc" />
+      <NegativeConstraintNet Id="ad4238c3-f401-4d6e-89db-cad110f1aa1b" />
+    </CDifferentialPair>
+    <CDifferentialPair Id="78a5b6da-8f0b-43b0-8518-56a9e9c5a256" Name="Vout">
+      <Constraints />
+      <ConstraintSets />
+      <PositiveConstraintNet Id="0aa255cd-d606-4fa7-9117-71926a43408f" />
+      <NegativeConstraintNet Id="fa74ec8a-18d6-49e4-a779-fb80bbdda5e4" />
+    </CDifferentialPair>
+  </CDifferentialPairs>
+  <CDifferentialPairClasses />
+  <CPinPairs />
+  <CxSigClasses />
+  <CxNets />
+  <CXNetClasses />
+  <ConstraintClearancesMatrix>
+    <CCMFromScopes>
+      <CCMFromScope Id="e9d500ce-053f-42d0-9c42-e41e79d16c32">
+        <ConstraintObject Id="00000000-0000-0000-0000-000000000000" />
+        <CCMToScopes>
+          <CCMToScope Id="7464e335-2514-48ea-8a9f-d364a1a6f926" SetId="00000000-0000-0000-0000-000000000000">
+            <ConstraintObject Id="00000000-0000-0000-0000-000000000000" />
+            <DefaultConstraintClearancesMatrixConstraint Id="00000000-0000-0000-0000-000000000000" Kind="0" Name="" Description="" Scope1="" Scope2="" Attributes="" LayerType="0" LayerId="0" />
+            <CCMConstraints>
+              <CCMConstraint Id="3ee45079-fc77-43de-8f6a-6f0bce268aa0" Kind="0" Name="Clearance_1" Description="Clearance Constraint [Clearance = 0.254mm]" Scope1="OnMid" Scope2="OnMid" Attributes="NETSCOPE=DifferentNets|LAYERKIND=SameLayer|GAP=10mil|GENERICCLEARANCE=10mil|IGNOREPADTOPADCLEARANCEINFOOTPRINT=FALSE|OBJECTCLEARANCES= " LayerType="2" LayerId="0" />
+              <CCMConstraint Id="73091d52-c23a-4ab6-b555-e26c14f05586" Kind="0" Name="Clearance_2" Description="Clearance Constraint [Clearance = 0.254mm]" Scope1="(ExistsOnLayer('Top Layer') Or ExistsOnLayer('Bottom Layer'))" Scope2="(ExistsOnLayer('Top Layer') Or ExistsOnLayer('Bottom Layer'))" Attributes="NETSCOPE=DifferentNets|LAYERKIND=SameLayer|GAP=10mil|GENERICCLEARANCE=10mil|IGNOREPADTOPADCLEARANCEINFOOTPRINT=FALSE|OBJECTCLEARANCES= " LayerType="1" LayerId="0" />
+            </CCMConstraints>
+          </CCMToScope>
+        </CCMToScopes>
+      </CCMFromScope>
+    </CCMFromScopes>
+  </ConstraintClearancesMatrix>
+  <ConstraintSameNetClearancesMatrix>
+    <CCMFromScopes />
+  </ConstraintSameNetClearancesMatrix>
+  <CSets />
+  <CClearancesMatrixSets />
+</ConstraintsData>
